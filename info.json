@@ -1,10 +1,10 @@
 {
   "name": "mark-quality-names",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "title": "Mark quality names",
   "description": "Rename quality levels with mark denominations to match the industrial theme of Factorio.",
   "author": "galdor",
   "factorio_version": "2.0",
   "quality_required": true,
-  "dependencies": ["base"]
+  "dependencies": ["base >= 2.0.0", "quality >= 2.0.0"]
 }
